@@ -4,6 +4,7 @@
 This project demonstrates the use of genetic algorithms for data analysis, specifically using the TPOT library, 
 to work with climate change data. The notebook includes setting up the environment, data loading, and initial exploration.
 It looks into equatiorial vs not equatorial variations.
+## WIP
 
 ## Features
 
